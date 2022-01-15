@@ -11,7 +11,7 @@ with no limitation whats so ever.
 # installation
 
 To run it just type in the terminal : live-server.
-its responsive for desctop , tablet and mobile
+its responsive for desktop , tablet and mobile
 hope you will enjoy viewing it like i did creating it.
 
 
